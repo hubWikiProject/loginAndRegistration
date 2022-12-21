@@ -1,3 +1,3 @@
 # loginAndRegistration
 
-В проекте необходимо использовать MySql.Data.dll — это MySQL Connector 
+В проекте необходимо использовать MySql.Data.dll (добавляем этот файл в ссылках) — это MySQL Connector 
